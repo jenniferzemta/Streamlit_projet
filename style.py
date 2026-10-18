@@ -14,7 +14,7 @@ PALETTE = [BURGUNDY, "#D9798C", "#E8A87C", "#5B8E7D", "#8E7DBE", "#C9B8B1"]
 CSS = """
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
-html, body, .stApp, [class*="st-"] { font-family: 'Inter', sans-serif; }
+html, body, .stApp { font-family: 'Inter', sans-serif; }
 .stApp { background: #FBF4F1; }
 .block-container { padding-top: 2rem; max-width: 1200px; }
 
