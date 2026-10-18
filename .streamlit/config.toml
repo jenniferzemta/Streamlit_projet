@@ -1,0 +1,10 @@
+# 📘 Streamlit lit ce fichier au démarrage : c'est ici qu'on règle le thème global.
+[theme]
+primaryColor = "#8B0A28"
+backgroundColor = "#FBF4F1"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#2B1B1F"
+font = "sans serif"
+
+[server]
+maxUploadSize = 50
